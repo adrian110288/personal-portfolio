@@ -1,3 +1,2 @@
-# blog
-
-a [Sails](http://sailsjs.org) application
+# personal-portfolio
+Personal portfolio site
